@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <svg viewBox="0 0 436 380" version="1.1" class="election-map">
+        <h1>sss</h1>
         <g
           id="turkey"
           stroke="none"
